@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "743944392200",
+    "project_id": "rainbowforest-3de11",
+    "storage_bucket": "rainbowforest-3de11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743944392200:android:3879f298418e26a6478bbd",
+        "android_client_info": {
+          "package_name": "com.example.curdfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743944392200-82kio11uf766btsgk9357d2hsa13m283.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.curdfirestore",
+            "certificate_hash": "8d652e87179aed33973455389f0f6a87c02fa986"
+          }
+        },
+        {
+          "client_id": "743944392200-9qtbjqjbiloek6vmp6mme2ilsu91tshm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8mJTJbvzK9VlqGulx2OT7UFrzrxrXIck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743944392200-9qtbjqjbiloek6vmp6mme2ilsu91tshm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743944392200:android:986f81fc9d356216478bbd",
+        "android_client_info": {
+          "package_name": "com.travel.curdfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743944392200-9qtbjqjbiloek6vmp6mme2ilsu91tshm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8mJTJbvzK9VlqGulx2OT7UFrzrxrXIck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743944392200-9qtbjqjbiloek6vmp6mme2ilsu91tshm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
